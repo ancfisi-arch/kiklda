@@ -280,7 +280,7 @@ export default function OperationsDashboard({ onBack }: OperationsDashboardProps
                 alt="CredSphere Logo"
                 className="w-8 h-8 rounded-lg object-cover"
               />
-              <span className="text-xl font-bold text-white">CredSphere</span>
+              <span className="text-xl font-bold text-white">ZK LEDGER</span>
             </div>
             <button onClick={() => setMobileMenuOpen(false)} className="lg:hidden text-gray-400">
               <X className="w-6 h-6" />
